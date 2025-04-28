@@ -4,12 +4,12 @@ creator,Creator,
 date,Date Created,
 description,Description,
 source_title,Source Title
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
+source_author,Source Author
+source_designer,Source Designer
+item_size,Item Size
+material,Material
+hex_color,Hex Color
+file_size,,
 format,Format,
 rights,Rights,
-rightsstatement,Rights Statement,,true
+
